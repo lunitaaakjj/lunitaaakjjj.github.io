@@ -1,0 +1,44 @@
+.contenedor{
+    background-image: url(https://i.pinimg.com/564x/c2/1c/0f/c21c0f4ae6bb2f298ffe93358fa0cab0.jpg);
+    text-align: center;
+    width: 1900px;
+    height: 924px;
+}
+
+p{
+    font-size: xx-large;
+    color: rgb(146, 5, 5);
+}
+
+.title {
+    color: rgb(146, 5, 5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+    font-size: 55px;
+}
+
+.img {
+    border: 3px solid; color: black;
+}
+
+.button{
+    background-color: rgb(161, 45, 64);
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2 {
+    background-color: rgb(161, 45, 64);
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
